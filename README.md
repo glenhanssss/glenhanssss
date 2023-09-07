@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">😊I’m Glenhans, nice to greet you😄</h4>
+<h4 align="center">😊I’m glenhans, Nice to greet You😄</h4>
 
 ###
 
