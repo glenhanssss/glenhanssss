@@ -43,10 +43,6 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" height="37" alt="php logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/inkscape/000000" height="37" alt="inkscape logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="37" alt="blender logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="37" alt="unity logo"  />
 </div>
 
 ###
