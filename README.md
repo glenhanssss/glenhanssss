@@ -1,5 +1,11 @@
 <h3 align="center">Hey There 👋</h3>
 
+<h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=32&duration=3000&pause=1000&color=61C1F7&center=true&vCenter=true&width=600&lines=My+Name+is+glen;xxx+yyy)](https://git.io/typing-svg)
+
+</h1>
+
 ###
 
 <h4 align="center">i PM...sorry, i AM glenhans, Nice to greet You😄</h4>
