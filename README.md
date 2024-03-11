@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header"/>
+
 <h3 align="center">Hey There <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="33"></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=i+PM...+sorry,+i+AM+glenhans,;Nice+to+greet+You😄)](https://git.io/typing-svg)
@@ -39,3 +41,7 @@
 </div>
 
 ###
+
+<h4 align="center"> - glenhans </h4>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
