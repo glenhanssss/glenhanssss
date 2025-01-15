@@ -1,4 +1,4 @@
-<h3 align="center"> Haiiii <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="33"></h3>
+<h3 align="center"> Hiiii <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="33"></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=23&center=true&vCenter=true&width=1000&lines=i+PM...+sorry,+i+AM+glenhans,;Nice+to+greet+You😄)](https://git.io/typing-svg)
 
